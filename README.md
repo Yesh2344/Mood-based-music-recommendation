@@ -1,4 +1,3 @@
-# Mood-Based Music Recommender
 
 This project is a Python-based application that recommends music based on the user's current mood. It uses natural language processing to analyze user input and suggests songs from Spotify playlists that match the detected mood.
 
